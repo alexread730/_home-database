@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## @home database!
 
-You can use the [editor on GitHub](https://github.com/SirWilliamIII/_home-database/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![erd-pic](/erd.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
