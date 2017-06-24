@@ -5,7 +5,7 @@ exports.up = function(knex, Promise) {
     table.text('title').notNull();
     table.text('document_url').notNull();
     table.date('created_on').notNull();
-    table.integer('property_id').references('property.id').unsigned().onDelete('cascade')
+    table.integer('property_id').unsigned().references('id').inTable('property').onDelete('cascade')
   });
 };
 

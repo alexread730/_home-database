@@ -8,8 +8,8 @@ exports.up = function(knex, Promise) {
     table.text('bathrooms').notNull();
     table.text('square_footage').notNull();
     table.text('image');
-    table.integer('landlord_id').references('account.id').unsigned().onDelete('cascade')
-    table.integer('location_id').references('location.id').unsigned().onDelete('cascade')
+    table.integer('landlord_id').unsigned().references('id').inTable('account').onDelete('cascade')
+    table.integer('location_id').unsigned().references('id').inTable('location').onDelete('cascade')
   });
 };
 
