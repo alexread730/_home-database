@@ -1,3 +1,3 @@
 ## @home database!
 
-![erd-pic](/erd.png)
+![erd-pic](/athome_ERD.png)
