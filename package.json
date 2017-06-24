@@ -1,0 +1,23 @@
+{
+  "name": "athome_database",
+  "version": "1.0.0",
+  "description": "database for @home app",
+  "main": "application.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakeFeldman/_home-database.git"
+  },
+  "author": "Alex Read, Jacob Feldman, Sean McLimans, Will Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakeFeldman/_home-database/issues"
+  },
+  "homepage": "https://github.com/jakeFeldman/_home-database#readme",
+  "dependencies": {
+    "knex": "^0.13.0",
+    "pg": "^6.4.0"
+  }
+}
