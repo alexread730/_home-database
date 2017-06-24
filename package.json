@@ -4,18 +4,19 @@
   "description": "database for @home app",
   "main": "application.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "development": "nodemon"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakeFeldman/_home-database.git"
+    "url": "git+https://github.com/where-the-heart-is/_home-database.git"
   },
   "author": "Alex Read, Jacob Feldman, Sean McLimans, Will Carpenter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jakeFeldman/_home-database/issues"
+    "url": "https://github.com/where-the-heart-is/_home-database/issues"
   },
-  "homepage": "https://github.com/jakeFeldman/_home-database#readme",
+  "homepage": "https://github.com/where-the-heart-is/_home-database#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
     "knex": "^0.13.0",
