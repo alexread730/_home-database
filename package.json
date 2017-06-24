@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jakeFeldman/_home-database#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "knex": "^0.13.0",
     "pg": "^6.4.0"
   }
