@@ -1,7 +1,7 @@
 
 exports.up = function(knex, Promise) {
   return knex.schema.createTable('property', table => {
-    table.increments('property_id').primary();
+    table.increments('id').primary();
     table.text('address').notNull();
     table.integer('rent_price').notNull();
     table.text('bedrooms').notNull();
