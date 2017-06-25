@@ -5,7 +5,7 @@ exports.up = function(knex, Promise) {
     table.text('title').notNull();
     table.text('request').notNull();
     table.timestamp('created_at').defaultTo(knex.fn.now());
-    table.boolean('status').defaultTo(false);
+    table.text('status').defaultTo('pending');
     table.integer('property_id').unsigned().references('id').inTable('property').onDelete('cascade');
     table.integer('tenant_id').unsigned().references('id').inTable('account').onDelete('cascade');
   });

@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/where-the-heart-is/_home-database#readme",
   "dependencies": {
+    "bcrypt": "^1.0.2",
+    "csv": "^1.1.1",
     "dotenv": "^4.0.0",
     "knex": "^0.13.0",
     "pg": "^6.4.0"

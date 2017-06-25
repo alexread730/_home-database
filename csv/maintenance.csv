@@ -1,0 +1,6 @@
+title,request,status,property_id,tenant_id,landlord_id
+Broken Stove,Urgent,pending,1,21,1
+Broken Window,Standard,pending,4,39,4
+Fridge not working,Urgent,complete,7,27,3
+Garage door remote not working,Standard,pending,9,43,1
+Toilet Clogged,Urgent,complete,14,18,2

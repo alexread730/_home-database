@@ -1,0 +1,65 @@
+[{
+  "city": "Englewood",
+  "state": "CO",
+  "zip_code": "80110"
+}, {
+  "city": "Denver",
+  "state": "CO",
+  "zip_code": "80204"
+}, {
+  "city": "Northglenn",
+  "state": "CO",
+  "zip_code": "80233"
+}, {
+  "city": "Arvada",
+  "state": "CO",
+  "zip_code": "80003"
+}, {
+  "city": "Arvada",
+  "state": "CO",
+  "zip_code": "80005"
+}, {
+  "city": "Boulder",
+  "state": "CO",
+  "zip_code": "80301"
+}, {
+  "city": "Boulder",
+  "state": "CO",
+  "zip_code": "80302"
+}, {
+  "city": "Fort Collins",
+  "state": "CO",
+  "zip_code": "80521"
+}, {
+  "city": "Fort Collins",
+  "state": "CO",
+  "zip_code": "80526"
+}, {
+  "city": "Fort Collins",
+  "state": "CO",
+  "zip_code": "80525"
+}, {
+  "city": "Cheyenne",
+  "state": "WY",
+  "zip_code": "82001"
+}, {
+  "city": "Cheyenne",
+  "state": "WY",
+  "zip_code": "82009"
+}, {
+  "city": "Tampa",
+  "state": "FL",
+  "zip_code": "33603"
+}, {
+  "city": "Tampa",
+  "state": "FL",
+  "zip_code": "33604"
+}, {
+  "city": "Tampa",
+  "state": "FL",
+  "zip_code": "33605"
+}, {
+  "city": "Miami",
+  "state": "FL",
+  "zip_code": "33130"
+}]
