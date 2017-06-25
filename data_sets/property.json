@@ -1,0 +1,145 @@
+[{
+  "address": "3230 W Girard Ave",
+  "rent_price": "1380",
+  "bedrooms": "2",
+  "bathrooms": "1",
+  "square_footage": "864",
+  "image": "https://photos.zillowstatic.com/p_f/ISa130eosch4nr1000000000.jpg",
+  "landlord_id": "1",
+  "location_id": 1
+}, {
+  "address": "3522 W 7th Ave",
+  "rent_price": "1800",
+  "bedrooms": "3",
+  "bathrooms": "1",
+  "square_footage": "1106",
+  "image": "https://photos.zillowstatic.com/p_f/ISukv6452vrtge1000000000.jpg",
+  "landlord_id": "2",
+  "location_id": 2
+}, {
+  "address": "129 E 107th Pl",
+  "rent_price": "2100",
+  "bedrooms": "4",
+  "bathrooms": "2",
+  "square_footage": "1700",
+  "image": "https://photos.zillowstatic.com/p_f/ISuwc0kqoq6ozg1000000000.jpg",
+  "landlord_id": "3",
+  "location_id": 3
+}, {
+  "address": "8212 Ames Way",
+  "rent_price": "1725",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "square_footage": "1380",
+  "image": "https://photos.zillowstatic.com/p_f/ISy78788re2ozd0000000000.jpg",
+  "landlord_id": "4",
+  "location_id": 4
+}, {
+  "address": "14275 W 84th Pl",
+  "rent_price": "2300",
+  "bedrooms": "4",
+  "bathrooms": "3.5",
+  "square_footage": "2400",
+  "image": "https://photos.zillowstatic.com/p_f/ISu82o4a336i2b0000000000.jpg",
+  "landlord_id": "1",
+  "location_id": 5
+}, {
+  "address": "4461 Pembroke Gdns",
+  "rent_price": "2750",
+  "bedrooms": "4",
+  "bathrooms": "4",
+  "square_footage": "2769",
+  "image": "https://photos.zillowstatic.com/p_f/ISm24j2kdu7ry61000000000.jpg",
+  "landlord_id": "2",
+  "location_id": 6
+}, {
+  "address": "2253 Spruce St # 2",
+  "rent_price": "2200",
+  "bedrooms": "2",
+  "bathrooms": "1.5",
+  "square_footage": "960",
+  "image": "https://photos.zillowstatic.com/p_f/ISqdn8t6gf0p4k0000000000.jpg",
+  "landlord_id": "3",
+  "location_id": 7
+}, {
+  "address": "1117 Skyline Dr",
+  "rent_price": "1875",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "square_footage": "1384",
+  "image": "https://photos.zillowstatic.com/p_f/ISqxqwles5s2kz0000000000.jpg",
+  "landlord_id": "4",
+  "location_id": 8
+}, {
+  "address": "2102 Water Blossom Ln",
+  "rent_price": "1550",
+  "bedrooms": "3",
+  "bathrooms": "1.5",
+  "square_footage": "1324",
+  "image": "https://photos.zillowstatic.com/p_f/IS2jzaro9zedtb0000000000.jpg",
+  "landlord_id": "1",
+  "location_id": 9
+}, {
+  "address": "4245 Boardwalk Dr UNIT B3",
+  "rent_price": "1350",
+  "bedrooms": "2",
+  "bathrooms": "1",
+  "square_footage": "907",
+  "image": "https://photos.zillowstatic.com/p_f/ISqlxlgghq9ml40000000000.jpg",
+  "landlord_id": "2",
+  "location_id": 10
+}, {
+  "address": "3819 Reed Ave",
+  "rent_price": "1700",
+  "bedrooms": "5",
+  "bathrooms": "2",
+  "square_footage": "2660",
+  "image": "https://photos.zillowstatic.com/p_f/ISmet2otl6k5bk1000000000.jpg",
+  "landlord_id": "3",
+  "location_id": 11
+}, {
+  "address": "916 Edison Ave",
+  "rent_price": "1500",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "square_footage": "1386",
+  "image": "https://photos.zillowstatic.com/p_f/IS6an6631mlryr1000000000.jpg",
+  "landlord_id": "4",
+  "location_id": 12
+}, {
+  "address": "407 E Cayuga St",
+  "rent_price": "1950",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "square_footage": "1731",
+  "image": "https://photos.zillowstatic.com/p_f/ISu4vnsp27d0nk1000000000.jpg",
+  "landlord_id": "1",
+  "location_id": 13
+}, {
+  "address": "1222 E Crawford St",
+  "rent_price": "1600",
+  "bedrooms": "2",
+  "bathrooms": "2",
+  "square_footage": "1055",
+  "image": "https://photos.zillowstatic.com/p_f/ISatsq1q6pgqsv0000000000.jpg",
+  "landlord_id": "2",
+  "location_id": 14
+}, {
+  "address": "3015 Thelma St",
+  "rent_price": "1200",
+  "bedrooms": "4",
+  "bathrooms": "1",
+  "square_footage": "1164",
+  "image": "https://photos.zillowstatic.com/p_f/ISiju3c93jqrwm1000000000.jpg",
+  "landlord_id": "3",
+  "location_id": 15
+}, {
+  "address": "1020 SW 4th Ave",
+  "rent_price": "1700",
+  "bedrooms": "2",
+  "bathrooms": "1",
+  "square_footage": "2668",
+  "image": "https://photos.zillowstatic.com/p_f/IS2r9cp2whh1b30000000000.jpg",
+  "landlord_id": "4",
+  "location_id": 16
+}]

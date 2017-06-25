@@ -1,0 +1,31 @@
+[{
+  "title": "Broken Stove",
+  "request": "Urgent",
+  "status": "pending",
+  "property_id": "1",
+  "tenant_id": "21"
+}, {
+  "title": "Broken Window",
+  "request": "Standard",
+  "status": "pending",
+  "property_id": "4",
+  "tenant_id": "39"
+}, {
+  "title": "Fridge not working",
+  "request": "Urgent",
+  "status": "complete",
+  "property_id": "7",
+  "tenant_id": "27"
+}, {
+  "title": "Garage door remote not working",
+  "request": "Standard",
+  "status": "pending",
+  "property_id": "9",
+  "tenant_id": "43"
+}, {
+  "title": "Toilet Clogged",
+  "request": "Urgent",
+  "status": "complete",
+  "property_id": "14",
+  "tenant_id": "18"
+}]

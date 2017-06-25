@@ -2,144 +2,384 @@
   "email": "jacob.h.feldman@gmail.com",
   "first_name": "Jacob",
   "last_name": "Feldman",
-  "password": "Password!3",
+  "password": "$2a$10$6scTR9qPzQ8UPYzYNJ/URecHiF1iPj.NVMnTHAdEa5BkDEmWV7SL.",
   "is_landlord": "TRUE"
 }, {
   "email": "alexread730@gmail.com",
   "first_name": "Alex",
   "last_name": "Read",
-  "password": "Password!3",
+  "password": "$2a$10$EnqxXb1R6SHYSjxdL6k29OHkJANUuWX.1GjvJNZSaqJU89S6sDuUu",
   "is_landlord": "TRUE"
 }, {
   "email": "willcarpenteriii@gmail.com",
   "first_name": "Will",
   "last_name": "Carpenter",
-  "password": "Password!3",
+  "password": "$2a$10$eJltIsTcq0QqL7L94uxOTumfidEyhmlKcoreKS/c.q7gMWNjop.S6",
   "is_landlord": "TRUE"
 }, {
   "email": "seanmclimans@gmail.com",
   "first_name": "Sean ",
   "last_name": "McLimans",
-  "password": "Password!3",
+  "password": "$2a$10$Tk1jgeZROayBV80tIivO0.4jabNEBN4lT.b4KqdZQeQujFLQxTjjC",
   "is_landlord": "TRUE"
 }, {
   "email": "tors2720@gmail.com",
   "first_name": "Cass",
   "last_name": "Torske",
-  "password": "Password!3",
+  "password": "$2a$10$7o44i1P70GPlAJTUBa2AY.n6DZiB/NqiYMmOHPirHbHNNJ1g0hBta",
   "is_landlord": "FALSE"
 }, {
   "email": "cj.reynolds@galvanize.com",
   "first_name": "CJ",
   "last_name": "Reynolds",
-  "password": "Password!3",
+  "password": "$2a$10$B1RPARHh8Lu6jNy3cxpy.ersJooifFL66byQicUYOVPVv2AeWKRDK",
   "is_landlord": "FALSE"
 }, {
   "email": "rileyconnerley@yahoo.com",
   "first_name": "Riley",
   "last_name": "Connerley",
-  "password": "Password!3",
+  "password": "$2a$10$YdNlorA6DmoSIKZxKQg8kueNBRwMiy2RCYa7NyKdEiL7U7LCXJxSW",
   "is_landlord": "FALSE"
 }, {
   "email": "miner.adam1@hotmail.com",
   "first_name": "Adam",
   "last_name": "Miner",
-  "password": "Password!3",
+  "password": "$2a$10$E5nOflgLuSqZ7uFM7RfrHueom9sk9OBtevUvyug5QlkYMKzP4VUmG",
   "is_landlord": "FALSE"
 }, {
   "email": "alvarezandrewa@gmail.com",
   "first_name": "Andrew",
   "last_name": "Alvarez",
-  "password": "Password!3",
+  "password": "$2a$10$1pJgH6.4lIm4WuQs9KeNnOD6Q8q.W8N/Es9JEBNm2vU2FpFMjufJK",
   "is_landlord": "FALSE"
 }, {
   "email": "drewesk@gmail.com",
   "first_name": "Andrew",
   "last_name": "Eskenazi",
-  "password": "Password!3",
+  "password": "$2a$10$I09/WN8qlbXreWyq3D57D.ccnB6412SbD4.k147NHwpW.ErzcJTfm",
   "is_landlord": "FALSE"
 }, {
   "email": "joha0033@gmail.com",
   "first_name": "Austin",
   "last_name": "Johnston",
-  "password": "Password!3",
+  "password": "$2a$10$TF3d..LkPP5T5Y3QDSi7o.n5oRN6UJOY/U1IgFuoU16iQzaKPDKzu",
   "is_landlord": "FALSE"
 }, {
   "email": "caroline.odonnell26@gmail.com",
   "first_name": "Caroline",
   "last_name": "O'Donnell",
-  "password": "Password!3",
+  "password": "$2a$10$ggePiG/No6rTJGCYZDYluOF0uN0Eh0nldgnhdHfa3EtNegd1nfBoK",
   "is_landlord": "FALSE"
 }, {
   "email": "chasehemerda@gmail.com",
   "first_name": "Chase",
   "last_name": "Hemerda",
-  "password": "Password!3",
+  "password": "$2a$10$0zYkSoOuGtTd2s8nJfmp/.7KzsfuBrwVEWlqjJGz5r982WQhj4JGe",
   "is_landlord": "FALSE"
 }, {
   "email": "fahad.haidari@gmail.com",
   "first_name": "Fahad",
   "last_name": "Haidari",
-  "password": "Password!3",
+  "password": "$2a$10$kd3z9PaV8nHyRjIIsA1v9uC2.7CXnOlS2H.1/WUlTYwScLtSV7KPa",
   "is_landlord": "FALSE"
 }, {
   "email": "j.clifton1473@gmail.com",
   "first_name": "Jason",
   "last_name": "Clifton",
-  "password": "Password!3",
+  "password": "$2a$10$pU2IwnUXZX42H9G1SUNcg.0ZXk8m5yE5MfHMmvKP2w7TPqdfDQub2",
   "is_landlord": "FALSE"
 }, {
   "email": "baker.marlena@gmail.com",
   "first_name": "Marlena",
   "last_name": "Baker",
-  "password": "Password!3",
+  "password": "$2a$10$TDiYQj4JOlcxAvGlxRnRueab8/2BtaIyFIoEvYjwSLvaIgZpzvRIW",
   "is_landlord": "FALSE"
 }, {
   "email": "mattpittsmusic@gmail.com",
   "first_name": "Matt",
   "last_name": "Pitts",
-  "password": "Password!3",
+  "password": "$2a$10$9apr3Jax05fEV54J7eCpmedxoTHS4wI1U3eGMGEJV2V0UufUUPXum",
   "is_landlord": "FALSE"
 }, {
   "email": "matthewgonzer@gmail.com",
   "first_name": "Matthew",
   "last_name": "Gonzer",
-  "password": "Password!3",
+  "password": "$2a$10$5T7VJIOC2gVSS/goPTTXiurgXEr.kqBiuGtnSux4fHoUbr2f2ZJNK",
   "is_landlord": "FALSE"
 }, {
   "email": "vicmcnabby@gmail.com",
   "first_name": "Matthew",
   "last_name": "Victor",
-  "password": "Password!3",
+  "password": "$2a$10$oY6d0YRYS767oH45YUZUreDODl4fZaSE/kGPf9mfpiIUL6KPvwHNK",
   "is_landlord": "FALSE"
 }, {
   "email": "lunchmeat13@gmail.com",
   "first_name": "Michael",
   "last_name": "Balagna",
-  "password": "Password!3",
+  "password": "$2a$10$5k8PkwA06n991/FUroosR.AHURJ5ySgf8QKwxtNbfConniiKuHf9C",
   "is_landlord": "FALSE"
 }, {
   "email": "rpu1s@sbcglobal.net",
   "first_name": "Robert",
   "last_name": "Puls",
-  "password": "Password!3",
+  "password": "$2a$10$G56A/vndVYHVHYqguH5HG.y9nzoluT3w3rsgG7Qd1AVbyhsIpVUMC",
   "is_landlord": "FALSE"
 }, {
   "email": "kiserr10@gmail.com",
   "first_name": "Ross",
   "last_name": "Kiser",
-  "password": "Password!3",
+  "password": "$2a$10$FgonXPOWwLa8oxlNqqND0eMA8sxshAmKhCOddIbGTLWd/Vu1DCmGu",
   "is_landlord": "FALSE"
 }, {
   "email": "stephen.warton@gmail.com",
   "first_name": "Stephen",
   "last_name": "Warton",
-  "password": "Password!3",
+  "password": "$2a$10$H8HyWlMWiKRbE/w0TZYs0.I/H0Bz8n/pHwCrDcsqxdaUFa9/BNOTa",
   "is_landlord": "FALSE"
 }, {
   "email": "willmeierart@gmail.com",
   "first_name": "Will",
   "last_name": "Meier",
-  "password": "Password!3",
+  "password": "$2a$10$ffsp2WfVT.dzhifH/UJWre75AKFbgBqoP5AiCEeeQn4y/RkiSeNsu",
+  "is_landlord": "FALSE"
+}, {
+  "email": "bockwell0@multiply.com",
+  "first_name": "Bartholomew",
+  "last_name": "Ockwell",
+  "password": "$2a$10$8qJHAnaq1oKtrL8lahFhSe2FII93fLp4tIgO57dPSHwneXVX6qS4.",
+  "is_landlord": "FALSE"
+}, {
+  "email": "bmeegan1@amazon.com",
+  "first_name": "Blondie",
+  "last_name": "Meegan",
+  "password": "$2a$10$IC63J2GYKLWKN/7.A8KwwOiIjTVSpPdFiZ7mFA1Qh1TZ.cV3Vs0J.",
+  "is_landlord": "FALSE"
+}, {
+  "email": "bdrummond2@wp.com",
+  "first_name": "Berget",
+  "last_name": "Drummond",
+  "password": "$2a$10$5hGflt6NfEyvlfuVk/hkTOwukAlQxap7YAG0o8jzZOI.pYKn3BJVK",
+  "is_landlord": "FALSE"
+}, {
+  "email": "cdisley3@abc.net.au",
+  "first_name": "Carlen",
+  "last_name": "Disley",
+  "password": "$2a$10$O///Ts8duyJ6dH2N0s0.mOhvMh.qiilG3wDiwnfs6yIjxD.gl4Mji",
+  "is_landlord": "FALSE"
+}, {
+  "email": "bcamerello4@trellian.com",
+  "first_name": "Bamby",
+  "last_name": "Camerello",
+  "password": "$2a$10$vTgBpwJwLAxweAFW679ae.0Z.gEresYVJJAfN0vfKs2s89Yeyvyx6",
+  "is_landlord": "FALSE"
+}, {
+  "email": "lskarin5@yellowbook.com",
+  "first_name": "Lindon",
+  "last_name": "Skarin",
+  "password": "$2a$10$dpoWt0dj69I9dbBfXAs06OfT.e3gQsAVZi8OuIK0ohLd.kjC7EBla",
+  "is_landlord": "FALSE"
+}, {
+  "email": "tsancraft6@comcast.net",
+  "first_name": "Thain",
+  "last_name": "Sancraft",
+  "password": "$2a$10$4LHXt3ojhA/hFKkzebNX8.YmyMvHyK8FHFR919/V5fEH5NHISEJNi",
+  "is_landlord": "FALSE"
+}, {
+  "email": "pbeams7@gravatar.com",
+  "first_name": "Phelia",
+  "last_name": "Beams",
+  "password": "$2a$10$FOaYC6MaSrmtB7xr6ydiKuFaN2QEFB4/460D2BVZcIG6aNLpy/L0S",
+  "is_landlord": "FALSE"
+}, {
+  "email": "adonnell8@house.gov",
+  "first_name": "Anselma",
+  "last_name": "Donnell",
+  "password": "$2a$10$.CRUL9Gy5LQ8ULlPeCpR6evrKvyLqUAt8D9YqNTCs8Hjy66j4T0yO",
+  "is_landlord": "FALSE"
+}, {
+  "email": "rwincer9@china.com.cn",
+  "first_name": "Rand",
+  "last_name": "Wincer",
+  "password": "$2a$10$j4svhFDJsZU8hP0Vt.j21uoSaktMIQ9XFCXiyZB5COyLHJ3GhRetq",
+  "is_landlord": "FALSE"
+}, {
+  "email": "rclairea@fc2.com",
+  "first_name": "Raimundo",
+  "last_name": "Claire",
+  "password": "$2a$10$shMsvgJao3B5Kw/j1NbseOLtbojm3iE5VWhRy6pXQNdz39.IFlAM6",
+  "is_landlord": "FALSE"
+}, {
+  "email": "tgareyb@springer.com",
+  "first_name": "Tamara",
+  "last_name": "Garey",
+  "password": "$2a$10$yvQVXJrDlEjsf443eYgPaePaGqNL8oGe40Xc96VnJJlq4Rg9QmR0G",
+  "is_landlord": "FALSE"
+}, {
+  "email": "dhanlonc@nytimes.com",
+  "first_name": "Denny",
+  "last_name": "Hanlon",
+  "password": "$2a$10$g7qZXPYSH0fnusFQ.TKtK.yAZxBnV5qbG1ap1ZRB.sZv0f.dJ.xM2",
+  "is_landlord": "FALSE"
+}, {
+  "email": "nminogued@about.com",
+  "first_name": "Norry",
+  "last_name": "Minogue",
+  "password": "$2a$10$oVWjKlP4KvoRwVCBYElnM.dO1i5OaWPi5tP85ZElQp2iHTPgbiYce",
+  "is_landlord": "FALSE"
+}, {
+  "email": "gghionee@theglobeandmail.com",
+  "first_name": "Giffard",
+  "last_name": "Ghione",
+  "password": "$2a$10$Z.rJtnbAfQsNY1OLz3xjoOj6Z1XiqSsUOrWCYXpJzt1IsbWLD4IF.",
+  "is_landlord": "FALSE"
+}, {
+  "email": "aleedalf@alexa.com",
+  "first_name": "Andrei",
+  "last_name": "Leedal",
+  "password": "$2a$10$DH2Wt68/lDvdnraXQs.CeOsxQ9uVv6dd2NZ5FzHjA9zfd/Pma/qQS",
+  "is_landlord": "FALSE"
+}, {
+  "email": "rbritneyg@ycombinator.com",
+  "first_name": "Reinwald",
+  "last_name": "Britney",
+  "password": "$2a$10$D7HvZ0LElrQ2D5DXBoUpnOebVq0IDfFJz0CLvDg2K4mq3hHwV65h.",
+  "is_landlord": "FALSE"
+}, {
+  "email": "hmettsh@google.fr",
+  "first_name": "Hal",
+  "last_name": "Metts",
+  "password": "$2a$10$9d18XsHDKy0qPgxyzId9DOuoQrs6E8mEMjAVsJy1fZsGlIwrhLhqm",
+  "is_landlord": "FALSE"
+}, {
+  "email": "ahourahani@noaa.gov",
+  "first_name": "Andrea",
+  "last_name": "Hourahan",
+  "password": "$2a$10$Zw0sm7B.Fqj6PF6ylpJ8T.PIozSu.YsB0RF7KLLESWeBEL8Qv4pd6",
+  "is_landlord": "FALSE"
+}, {
+  "email": "lradclyffej@scientificamerican.com",
+  "first_name": "Lyndsey",
+  "last_name": "Radclyffe",
+  "password": "$2a$10$j3zN6otQ7VlL21vlUYtZQexouWNRt9pSUtYOO7/AVL.7YMd2uW4AS",
+  "is_landlord": "FALSE"
+}, {
+  "email": "mbillowsk@earthlink.net",
+  "first_name": "Misti",
+  "last_name": "Billows",
+  "password": "$2a$10$bKzBB2CSmXeDAWn8v1618OlqoYAuRiLZrBkh4Hkceby0w.VGBgyV.",
+  "is_landlord": "FALSE"
+}, {
+  "email": "ischolfieldl@t.co",
+  "first_name": "Ilario",
+  "last_name": "Scholfield",
+  "password": "$2a$10$9onToFWsEtKfroAr4vnVVeIYtZI8trUO3r6vgGG6PzV.qdjsj/kom",
+  "is_landlord": "FALSE"
+}, {
+  "email": "bcastellettim@dion.ne.jp",
+  "first_name": "Bendix",
+  "last_name": "Castelletti",
+  "password": "$2a$10$4OERs7jiyL3UDmQRiMf4aewZa/Ul8baKLprb.KgFKJEHs2LXc/Hy.",
+  "is_landlord": "FALSE"
+}, {
+  "email": "msymondsn@cbsnews.com",
+  "first_name": "Melvyn",
+  "last_name": "Symonds",
+  "password": "$2a$10$59mHZADtM4NEyMvYKqVSme0yvYu6cpazxAI6YP8Zc8R9wQetjXqSO",
+  "is_landlord": "FALSE"
+}, {
+  "email": "apearleo@state.tx.us",
+  "first_name": "Ashia",
+  "last_name": "Pearle",
+  "password": "$2a$10$yT18H5YG56yNq0kHXA431OJyesBRuE4c/jHG35ZPHchLNaOYwu1O.",
+  "is_landlord": "FALSE"
+}, {
+  "email": "aliveleyp@wix.com",
+  "first_name": "Ali",
+  "last_name": "Liveley",
+  "password": "$2a$10$7p2bQE9ctD3OLXYcAvQseOtXVOveu0GEi.Xo9dxpWtlxX.iCP2/Ne",
+  "is_landlord": "FALSE"
+}, {
+  "email": "mnorthgravesq@google.cn",
+  "first_name": "Moshe",
+  "last_name": "Northgraves",
+  "password": "$2a$10$u8.XAhfuDuJzq/ACG5xeJu4GYXgLdYtl4bEMjCrKQkJhM7TEoN5wm",
+  "is_landlord": "FALSE"
+}, {
+  "email": "gchaudronr@netvibes.com",
+  "first_name": "Grenville",
+  "last_name": "Chaudron",
+  "password": "$2a$10$HgIRFVtxennim6XgfiSUHuhCkbIwNBKPemG/0T05pcQJEhmZnwSEe",
+  "is_landlord": "FALSE"
+}, {
+  "email": "troussels@tiny.cc",
+  "first_name": "Talia",
+  "last_name": "Roussel",
+  "password": "$2a$10$r61pLX/glngBu2RvKvmoJ.n4DT6/o0QeeFZLjHDc0IvxGtYruWjTG",
+  "is_landlord": "FALSE"
+}, {
+  "email": "abonart@businessinsider.com",
+  "first_name": "Abbe",
+  "last_name": "Bonar",
+  "password": "$2a$10$GTB9iVmGiYzGXy57WMZB1OPx8fxGd0oeLDHl8CumJHmvKih4tdvLK",
+  "is_landlord": "FALSE"
+}, {
+  "email": "bfoucaru@fc2.com",
+  "first_name": "Bianka",
+  "last_name": "Foucar",
+  "password": "$2a$10$Zqvq5t1St2OulOFlu5cFE.LU3H5h2nMe7vZsjoxplGOA9D.aB1YG6",
+  "is_landlord": "FALSE"
+}, {
+  "email": "smulranv@zdnet.com",
+  "first_name": "Sondra",
+  "last_name": "Mulran",
+  "password": "$2a$10$1XfjwBVm5YpoBXQwVBzcjePw6EwAsHPTGpwY899qkMEDZqY8Ys0QG",
+  "is_landlord": "FALSE"
+}, {
+  "email": "mrummeryw@pbs.org",
+  "first_name": "Myra",
+  "last_name": "Rummery",
+  "password": "$2a$10$/Pg2JarouHWqdxwmR6TwU.9Evr1KEt9V.jRLypGEUmXTc357z.ipG",
+  "is_landlord": "FALSE"
+}, {
+  "email": "tcardoox@trellian.com",
+  "first_name": "Tyson",
+  "last_name": "Cardoo",
+  "password": "$2a$10$E8XwV/GcP8YE5oOV5oLqDeSXkS8XdHCWc/PXOniIi1Rl4z8Vo.qoa",
+  "is_landlord": "FALSE"
+}, {
+  "email": "zbeveragey@dropbox.com",
+  "first_name": "Zach",
+  "last_name": "Beverage",
+  "password": "$2a$10$FtryXMTQ53ah9O/nVYAJdOYLqlDm328jo2w5azOfCNN3omCooGRIK",
+  "is_landlord": "FALSE"
+}, {
+  "email": "mvanniniz@simplemachines.org",
+  "first_name": "Misty",
+  "last_name": "Vannini",
+  "password": "$2a$10$pCTatRoa1l2U3oCO9sPDMu2F2I1DH83KS6ON6PBh/c9/7L6Mvtqhi",
+  "is_landlord": "FALSE"
+}, {
+  "email": "dpickerin10@domainmarket.com",
+  "first_name": "Dorise",
+  "last_name": "Pickerin",
+  "password": "$2a$10$2vae1GlvQAMq.CafvoYmbO1srKTAncS7aUrSHb2tytwmd2mEb4DqG",
+  "is_landlord": "FALSE"
+}, {
+  "email": "rrenvoise11@dropbox.com",
+  "first_name": "Rabi",
+  "last_name": "Renvoise",
+  "password": "$2a$10$xKaU8bhaHvlMd.zYsQJ2lu.kkukWkW88BwjusBTGzxRU80NXZJXHW",
+  "is_landlord": "FALSE"
+}, {
+  "email": "bpavis12@hexun.com",
+  "first_name": "Brina",
+  "last_name": "Pavis",
+  "password": "$2a$10$iPF2fl11U48jsnsd0EH1N.6zrHjKf/AS6KVRpq8dyVCujtK9FuGr6",
+  "is_landlord": "FALSE"
+}, {
+  "email": "chumphris13@people.com.cn",
+  "first_name": "Cammy",
+  "last_name": "Humphris",
+  "password": "$2a$10$WRmeSj2gnSh/Uk459p2qAupOvx3o9//Q2aTNCWh85DtDEwPJytxjy",
   "is_landlord": "FALSE"
 }]
