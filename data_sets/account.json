@@ -1,0 +1,145 @@
+[{
+  "email": "jacob.h.feldman@gmail.com",
+  "first_name": "Jacob",
+  "last_name": "Feldman",
+  "password": "Password!3",
+  "is_landlord": "TRUE"
+}, {
+  "email": "alexread730@gmail.com",
+  "first_name": "Alex",
+  "last_name": "Read",
+  "password": "Password!3",
+  "is_landlord": "TRUE"
+}, {
+  "email": "willcarpenteriii@gmail.com",
+  "first_name": "Will",
+  "last_name": "Carpenter",
+  "password": "Password!3",
+  "is_landlord": "TRUE"
+}, {
+  "email": "seanmclimans@gmail.com",
+  "first_name": "Sean ",
+  "last_name": "McLimans",
+  "password": "Password!3",
+  "is_landlord": "TRUE"
+}, {
+  "email": "tors2720@gmail.com",
+  "first_name": "Cass",
+  "last_name": "Torske",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "cj.reynolds@galvanize.com",
+  "first_name": "CJ",
+  "last_name": "Reynolds",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "rileyconnerley@yahoo.com",
+  "first_name": "Riley",
+  "last_name": "Connerley",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "miner.adam1@hotmail.com",
+  "first_name": "Adam",
+  "last_name": "Miner",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "alvarezandrewa@gmail.com",
+  "first_name": "Andrew",
+  "last_name": "Alvarez",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "drewesk@gmail.com",
+  "first_name": "Andrew",
+  "last_name": "Eskenazi",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "joha0033@gmail.com",
+  "first_name": "Austin",
+  "last_name": "Johnston",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "caroline.odonnell26@gmail.com",
+  "first_name": "Caroline",
+  "last_name": "O'Donnell",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "chasehemerda@gmail.com",
+  "first_name": "Chase",
+  "last_name": "Hemerda",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "fahad.haidari@gmail.com",
+  "first_name": "Fahad",
+  "last_name": "Haidari",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "j.clifton1473@gmail.com",
+  "first_name": "Jason",
+  "last_name": "Clifton",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "baker.marlena@gmail.com",
+  "first_name": "Marlena",
+  "last_name": "Baker",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "mattpittsmusic@gmail.com",
+  "first_name": "Matt",
+  "last_name": "Pitts",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "matthewgonzer@gmail.com",
+  "first_name": "Matthew",
+  "last_name": "Gonzer",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "vicmcnabby@gmail.com",
+  "first_name": "Matthew",
+  "last_name": "Victor",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "lunchmeat13@gmail.com",
+  "first_name": "Michael",
+  "last_name": "Balagna",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "rpu1s@sbcglobal.net",
+  "first_name": "Robert",
+  "last_name": "Puls",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "kiserr10@gmail.com",
+  "first_name": "Ross",
+  "last_name": "Kiser",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "stephen.warton@gmail.com",
+  "first_name": "Stephen",
+  "last_name": "Warton",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}, {
+  "email": "willmeierart@gmail.com",
+  "first_name": "Will",
+  "last_name": "Meier",
+  "password": "Password!3",
+  "is_landlord": "FALSE"
+}]
