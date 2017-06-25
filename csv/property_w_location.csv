@@ -1,0 +1,17 @@
+address,city,state,zip_code,rent,bedrooms,bathrooms,square_footage,image_url,landlord_id
+3230 W Girard Ave,Englewood,CO,80110,1380,2,1,864,https://photos.zillowstatic.com/p_f/ISa130eosch4nr1000000000.jpg,1
+3522 W 7th Ave,Denver,CO,80204,1800,3,1,1106,https://photos.zillowstatic.com/p_f/ISukv6452vrtge1000000000.jpg,2
+129 E 107th Pl,Northglenn,CO,80233,2100,4,2,1700,https://photos.zillowstatic.com/p_f/ISuwc0kqoq6ozg1000000000.jpg,3
+8212 Ames Way,Arvada,CO,80003,1725,3,2,1380,https://photos.zillowstatic.com/p_f/ISy78788re2ozd0000000000.jpg,4
+14275 W 84th Pl,Arvada,CO,80005,2300,4,3.5,2400,https://photos.zillowstatic.com/p_f/ISu82o4a336i2b0000000000.jpg,1
+4461 Pembroke Gdns,Boulder,CO,80301,2750,4,4,2769,https://photos.zillowstatic.com/p_f/ISm24j2kdu7ry61000000000.jpg,2
+2253 Spruce St # 2,Boulder,CO,80302,2200,2,1.5,960,https://photos.zillowstatic.com/p_f/ISqdn8t6gf0p4k0000000000.jpg,3
+1117 Skyline Dr,Fort Collins,CO,80521,1875,3,2,1384,https://photos.zillowstatic.com/p_f/ISqxqwles5s2kz0000000000.jpg,4
+2102 Water Blossom Ln,Fort Collins,CO,80526,1550,3,1.5,1324,https://photos.zillowstatic.com/p_f/IS2jzaro9zedtb0000000000.jpg,1
+4245 Boardwalk Dr UNIT B3,Fort Collins,CO,80525,1350,2,1,907,https://photos.zillowstatic.com/p_f/ISqlxlgghq9ml40000000000.jpg,2
+3819 Reed Ave,Cheyenne,WY,82001,1700,5,2,2660,https://photos.zillowstatic.com/p_f/ISmet2otl6k5bk1000000000.jpg,3
+916 Edison Ave,Cheyenne,WY,82009,1500,3,2,1386,https://photos.zillowstatic.com/p_f/IS6an6631mlryr1000000000.jpg,4
+407 E Cayuga St,Tampa,FL,33603,1950,3,2,1731,https://photos.zillowstatic.com/p_f/ISu4vnsp27d0nk1000000000.jpg,1
+1222 E Crawford St,Tampa,FL,33604,1600,2,2,1055,https://photos.zillowstatic.com/p_f/ISatsq1q6pgqsv0000000000.jpg,2
+3015 Thelma St,Tampa,FL,33605,1200,4,1,1164,https://photos.zillowstatic.com/p_f/ISiju3c93jqrwm1000000000.jpg,3
+1020 SW 4th Ave,Miami,FL,33130,1700,2,1,2668,https://photos.zillowstatic.com/p_f/IS2r9cp2whh1b30000000000.jpg,4
