@@ -4,7 +4,7 @@ exports.up = function(knex, Promise) {
     table.increments('id').primary();
     table.text('first_name').notNull();
     table.text('last_name').notNull();
-    table.text('email').notNull();
+    table.unique('email').notNull();
     table.text('password').notNull();
     table.timestamp('created_at').defaultTo(knex.fn.now());
     table.boolean('is_landlord').defaultTo(false)
